@@ -16,6 +16,7 @@
 ## Fullstack Developer Skills
 
 ### Frontend Development
+<div style="display: flex; flex-direction: row; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="css3 logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo" />
@@ -30,34 +31,42 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" width="52" alt="vitest logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="40" width="52" alt="material ui" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" height="40" width="52" alt="threejs"/>
-
+</div>
 
 
 ### Backend Development
+<div style="display: flex; flex-direction: row; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" alt="nodejs logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" width="52" alt="swagger logo" />
+</div>
 
 ### Database Management
+<div style="display: flex; flex-direction: row; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" width="52" alt="mongodb logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" width="52" alt="postgres logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" height="40" width="52" alt="sequelize logo" />
-
+</div>
 
 ### DevOps and Tools
+<div style="display: flex; flex-direction: row; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" width="52" alt="netlify logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="aws logo" />
+</div>
 
 ### Testing
+<div style="display: flex; flex-direction: row; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" width="52" alt="vitest logo" />
+</div>
 
 ### Data Visualization
+<div style="display: flex; flex-direction: row; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-plain.svg" height="40" width="52" alt="d3js logo" />
-
+</div>
 ###
 
 ## Achievements
