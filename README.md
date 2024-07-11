@@ -67,6 +67,7 @@
 <div style="display: flex; flex-direction: row; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-plain.svg" height="40" width="52" alt="d3js logo" />
 </div>
+
 ###
 
 ## Achievements
